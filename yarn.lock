@@ -1970,10 +1970,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-hono@^3.4.3:
-  version "3.4.3"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-3.4.3.tgz#ab1db8777fa80341daf389979b7888da0786e3db"
-  integrity sha512-HbVxZh9yC3hV25+mFjUaM65t7g8ia2mXbhAGmVHA0r8+guizTJq1Cg4f2SmB5+JrviG0vaqOnWJ9U3O05aikbA==
+hono@^3.11.7:
+  version "3.11.7"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-3.11.7.tgz#e44f8aa3a18f19775304328bde6f559f7a02447f"
+  integrity sha512-TcfAq7IdipF+9coxnuzYlSSBXbm9mTyWjjagLCv/2ampboNcKJdi+XCK5G48mHQtpI5+9Rj3J4FfcGgw9vzIww==
 
 html-entities@^2.4.0:
   version "2.4.0"

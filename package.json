@@ -34,7 +34,7 @@
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.12",
     "fs": "^0.0.1-security",
-    "hono": "^3.4.3",
+    "hono": "^3.11.7",
     "html-entities": "^2.4.0",
     "ioredis": "^5.3.2",
     "lucide-react": "^0.263.1",
